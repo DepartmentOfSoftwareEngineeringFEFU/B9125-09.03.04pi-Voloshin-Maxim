@@ -40,7 +40,7 @@
 ## Структура репозитория
 
 ```
-B9125-09_03_04pi-Voloshin-Maxim-Nikolaevich/
+B9125-09.03.04pi-Voloshin-Maxim/
 ├── README.md
 ├── курс_1/
 │   ├── лабораторные/
